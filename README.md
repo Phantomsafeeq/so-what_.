@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,34&height=220&section=header&text=Safeeq%20Ahamad%20S%20S&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Web%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
@@ -172,3 +172,4 @@ internship_experience: Tech Mahindra Limited (Test Automation with Python)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,34&height=100&section=footer" width="100%"/>
 </div>
+](https://github.com/Phantomsafeeq)
